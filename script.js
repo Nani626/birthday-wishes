@@ -1,10 +1,10 @@
 // Add this to the existing JavaScript
 document.getElementById("giftButton").addEventListener("click", function() {
-    document.getElementById("wishText").innerText = "Happy Birthday cherry ALWAYS BE  HAPPY AND SMILING";
+    document.getElementById("wishText").innerText = "HAPPY BIRTHDAY CHERRY!! ALWAYS BE  HAPPY AND SMILING";
   });
   
   document.getElementById("wishesButton").addEventListener("click", function() {
-    document.getElementById("wishText").innerText = "Happy Birthday cherry ALWAYS BE  HAPPY AND SMILING";
+    document.getElementById("wishText").innerText = "HAPPY BITHDAY CHERRY!! ALWAYS BE  HAPPY AND SMILING";
   });
   
   document.getElementById("giftButton").addEventListener("mouseover", function() {
